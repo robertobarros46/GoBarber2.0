@@ -1,0 +1,28 @@
+{
+  "name": "go_barber_2_0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Roberto de Barros Netto",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "dev:server": "ts-node-dev --inspect --transpileOnly --ignore-watch node_modules src/server.ts"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.7",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-import-resolver-typescript": "^2.2.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.0.5",
+    "ts-node-dev": "^1.0.0-pre.56",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.8.0",
+    "date-fns": "^2.15.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "express": "^4.17.1",
+    "uuidv4": "^6.2.1"
+  }
+}
