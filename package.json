@@ -27,13 +27,9 @@
     "date-fns": "^2.15.0",
     "eslint-config-airbnb-base": "^14.2.0",
     "express": "^4.17.1",
-<<<<<<< HEAD
     "jsonwebtoken": "^8.5.1",
     "pg": "^8.3.0",
     "reflect-metadata": "^0.1.13",
-=======
-    "pg": "^8.3.0",
->>>>>>> 89b2adbfb60be15e57f6dbc447d9b82c92bc44b9
     "typeorm": "^0.2.25",
     "uuidv4": "^6.2.1"
   }

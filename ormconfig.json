@@ -5,10 +5,7 @@
   "username": "docker",
   "password": "docker",
   "database": "gostack_gobarber",
-<<<<<<< HEAD
   "entities": ["./src/models/*.ts"],
-=======
->>>>>>> 89b2adbfb60be15e57f6dbc447d9b82c92bc44b9
   "migration": ["./src/database/migrations/*.ts"],
   "cli": {
     "migrationsDir": "./src/database/migrations"
