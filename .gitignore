@@ -5,6 +5,9 @@ build/
 temp/
 tmp/*
 !tmp/.gitkeep
+<<<<<<< HEAD
 
 yarn.lock
 yarn-error.log
+=======
+>>>>>>> 42881d10ab452fd7d1d8d0d32ab7100ba8304b79
